@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **j-martens/j-martens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# j-martens' GitHub profile
+
+I manage the content teams for [Visual Studio](https://docs.microsoft.com/visualstudio) and [Visual Studio Code](https://code.visualstudio.com/docs). 
+
+<img align="left" alt="j-martens' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=j-martens&show_icons=true&theme=radical" />
+
